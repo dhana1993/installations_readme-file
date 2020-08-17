@@ -1,0 +1,5 @@
+# installations_readme-file
+
+hostnamectl set-hostname hostname.domain.com
+
+/etc/init.d/network restart
