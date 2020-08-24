@@ -1,0 +1,9 @@
+ # Creating maven directory under /opt
+  mkdir /opt/maven
+  cd /opt/maven
+  # downloading maven version 3.6.0 (https://maven.apache.org/download.cgi)
+  wget 9copy tar file link)
+  tar -xvzf (file name)
+  vi ~/.bash_profile
+  M2_HOME=/opt/maven/apache-maven-3.6.0
+  M2=$M2_HOME/bin
